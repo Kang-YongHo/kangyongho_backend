@@ -5,6 +5,9 @@
 - ./gradlew clean build
 - docker compose up --build
 
+## API 명세서
+- http://localhost:8080/swagger-ui/index.html
+
 ## 프로젝트 구조
 ```.
 ├── java
